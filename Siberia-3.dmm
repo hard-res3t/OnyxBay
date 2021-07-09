@@ -1,152 +1,152 @@
-"a" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"b" = (/obj/effect/floor_decal/industrial/warning/dust{dir = 1; icon_state = "warning_dust"},/obj/structure/railing{dir = 1},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"a" = (/obj/machinery/gateway{dir = 4},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"b" = (/obj/structure/cable/yellow{d1 = 1; d2 = 4; icon_state = "1-4"},/obj/structure/cable/yellow{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
 "c" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"d" = (/obj/structure/cable/yellow,/obj/structure/cable/yellow{d2 = 4; icon_state = "0-4"},/obj/structure/cable/yellow{d2 = 8; icon_state = "0-8"},/obj/effect/floor_decal/industrial/warning/dust,/obj/structure/railing,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"e" = (/obj/structure/table/woodentable,/obj/item/weapon/stamp/captain{pixel_x = -4; pixel_y = 3},/obj/item/weapon/stamp/denied{pixel_x = 4; pixel_y = 3},/obj/item/weapon/folder/blue,/obj/item/weapon/paper_bin{pixel_x = -3; pixel_y = 7},/obj/item/weapon/pen,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"f" = (/turf/simulated/mineral,/area/exoplanet/snow)
-"g" = (/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"h" = (/obj/structure/table/woodentable,/obj/machinery/light{dir = 8},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"i" = (/obj/machinery/power/apc{dir = 2; name = "south bump"; pixel_y = -24},/obj/structure/cable/green{d2 = 4; icon_state = "0-4"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"j" = (/obj/machinery/door/unpowered/simple/wood,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"k" = (/obj/machinery/gateway{dir = 8},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"l" = (/obj/structure/closet/secure_closet/captains,/obj/item/clothing/accessory/holster/thigh,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"n" = (/obj/structure/cable/yellow{d1 = 1; d2 = 4; icon_state = "1-4"},/obj/structure/cable/yellow{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"o" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/obj/structure/cable/yellow{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/cable/yellow{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"p" = (/obj/machinery/gateway{dir = 10},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"q" = (/obj/effect/floor_decal/industrial/warning/dust/corner{dir = 4; icon_state = "warningcorner_dust"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"r" = (/turf/simulated/wall/r_wall,/area/crew_quarters/captain)
-"s" = (/obj/structure/table/woodentable,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"t" = (/obj/machinery/power/tracker,/obj/structure/cable/yellow,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"u" = (/obj/effect/floor_decal/industrial/warning/dust/corner{dir = 1; icon_state = "warningcorner_dust"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"v" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/obj/effect/floor_decal/industrial/warning/dust,/obj/structure/railing,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"w" = (/obj/machinery/power/smes/buildable{RCon_tag = "Substation - Command"; charge = 0; input_level = 250000; input_level_max = 250000; output_level = 250000; output_level_max = 250000},/obj/structure/cable/green{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"x" = (/obj/structure/cable/yellow{d2 = 4; icon_state = "0-4"},/obj/machinery/power/smes/buildable{RCon_tag = "Substation - Command"; charge = 0; input_level = 250000; input_level_max = 250000; output_level = 250000; output_level_max = 250000},/obj/structure/cable/yellow,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"z" = (/obj/machinery/power/solar,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"A" = (/obj/structure/cable/yellow{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"B" = (/obj/effect/floor_decal/industrial/warning/dust{dir = 4; icon_state = "warning_dust"},/obj/structure/railing{dir = 4},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"C" = (/obj/machinery/gateway{dir = 9},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"D" = (/obj/machinery/gateway{dir = 5},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"E" = (/obj/effect/floor_decal/industrial/warning/dust{dir = 8; icon_state = "warning_dust"},/obj/structure/railing{dir = 8},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"F" = (/obj/effect/floor_decal/industrial/warning/dust/corner{dir = 8; icon_state = "warningcorner_dust"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"G" = (/obj/structure/cable/yellow{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"H" = (/obj/structure/cable/yellow{d2 = 2; icon_state = "0-2"},/obj/machinery/power/terminal{dir = 8},/obj/structure/cable/yellow{d1 = 2; d2 = 4; icon_state = "2-4"},/obj/machinery/light,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"I" = (/obj/machinery/gateway{dir = 4},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"J" = (/obj/item/weapon/storage/toolbox/mechanical,/obj/machinery/power/solar_control/autostart,/obj/structure/cable/yellow{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"K" = (/obj/machinery/gateway{dir = 1},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"L" = (/obj/structure/table/woodentable,/obj/item/modular_computer/console/preset/command,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"M" = (/obj/structure/cable/yellow{d1 = 1; d2 = 4; icon_state = "1-4"},/obj/structure/cable/yellow{d1 = 1; d2 = 8; icon_state = "1-8"},/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"N" = (/obj/machinery/gateway,/obj/effect/landmark{name = "JoinLateGateway"},/obj/effect/landmark{name = "JoinLateCryo"},/obj/effect/landmark{name = "JoinLate"},/obj/effect/landmark/start{name = "Captain"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"O" = (/obj/structure/cable/yellow{d1 = 2; d2 = 8; icon_state = "2-8"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"P" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"Q" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/simulated/wall/r_wall,/area/crew_quarters/captain)
-"R" = (/obj/machinery/gateway/centerstation,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"S" = (/obj/machinery/gateway{dir = 6},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"T" = (/obj/machinery/power/terminal,/obj/structure/cable/yellow{d2 = 8; icon_state = "0-8"},/obj/machinery/light{dir = 4},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
-"U" = (/obj/effect/floor_decal/industrial/warning/dust/corner,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"V" = (/obj/effect/floor_decal/industrial/warning/dust,/obj/structure/railing,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"W" = (/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
-"X" = (/obj/structure/barricade,/obj/effect/wingrille_spawn/reinforced,/turf/simulated/floor/plating,/area/crew_quarters/captain)
-"Y" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"d" = (/obj/effect/floor_decal/industrial/warning/dust{dir = 4; icon_state = "warning_dust"},/obj/structure/railing{dir = 4},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"e" = (/obj/structure/closet/secure_closet/captains,/obj/item/clothing/accessory/holster/thigh,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"h" = (/obj/structure/cable/yellow{d2 = 4; icon_state = "0-4"},/obj/machinery/power/smes/buildable{RCon_tag = "Substation - Command"; charge = 0; input_level = 250000; input_level_max = 250000; output_level = 250000; output_level_max = 250000},/obj/structure/cable/yellow,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"i" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"j" = (/obj/structure/cable/yellow{d1 = 1; d2 = 4; icon_state = "1-4"},/obj/structure/cable/yellow{d1 = 1; d2 = 8; icon_state = "1-8"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"k" = (/turf/simulated/mineral,/area/exoplanet/snow)
+"l" = (/obj/effect/floor_decal/industrial/warning/dust{dir = 8; icon_state = "warning_dust"},/obj/structure/railing{dir = 8},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"m" = (/obj/machinery/power/smes/buildable{RCon_tag = "Substation - Command"; charge = 0; input_level = 250000; input_level_max = 250000; output_level = 250000; output_level_max = 250000},/obj/structure/cable/green{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"n" = (/obj/machinery/gateway/centerstation,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"o" = (/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"p" = (/obj/structure/table/woodentable,/obj/item/weapon/stamp/captain{pixel_x = -4; pixel_y = 3},/obj/item/weapon/stamp/denied{pixel_x = 4; pixel_y = 3},/obj/item/weapon/folder/blue,/obj/item/weapon/paper_bin{pixel_x = -3; pixel_y = 7},/obj/item/weapon/pen,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"q" = (/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"r" = (/obj/structure/barricade,/obj/effect/wingrille_spawn/reinforced,/turf/simulated/floor/plating,/area/crew_quarters/captain)
+"s" = (/obj/machinery/gateway{dir = 5},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"t" = (/obj/structure/cable/yellow{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"u" = (/obj/structure/table/woodentable,/obj/machinery/light{dir = 8},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"v" = (/obj/machinery/power/terminal,/obj/structure/cable/yellow{d2 = 8; icon_state = "0-8"},/obj/machinery/light{dir = 4},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"w" = (/obj/structure/cable/yellow{d2 = 2; icon_state = "0-2"},/obj/machinery/power/terminal{dir = 8},/obj/structure/cable/yellow{d1 = 2; d2 = 4; icon_state = "2-4"},/obj/machinery/light,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"x" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"y" = (/obj/effect/floor_decal/industrial/warning/dust/corner{dir = 8; icon_state = "warningcorner_dust"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"z" = (/obj/machinery/gateway{dir = 1},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"B" = (/obj/machinery/gateway,/obj/effect/landmark{name = "JoinLateGateway"},/obj/effect/landmark{name = "JoinLateCryo"},/obj/effect/landmark{name = "JoinLate"},/obj/effect/landmark/start{name = "Captain"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"C" = (/obj/structure/cable/yellow,/obj/structure/cable/yellow{d2 = 4; icon_state = "0-4"},/obj/structure/cable/yellow{d2 = 8; icon_state = "0-8"},/obj/effect/floor_decal/industrial/warning/dust,/obj/structure/railing,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"D" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"E" = (/obj/machinery/power/tracker,/obj/structure/cable/yellow,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"F" = (/obj/structure/table/woodentable,/obj/item/modular_computer/console/preset/command,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"G" = (/obj/effect/floor_decal/industrial/warning/dust/corner,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"H" = (/obj/machinery/gateway{dir = 6},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"I" = (/turf/simulated/wall/r_wall,/area/crew_quarters/captain)
+"J" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/obj/structure/cable/yellow{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/cable/yellow{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"K" = (/obj/structure/cable/yellow{d1 = 2; d2 = 8; icon_state = "2-8"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"L" = (/obj/effect/floor_decal/industrial/warning/dust/corner{dir = 4; icon_state = "warningcorner_dust"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"M" = (/obj/structure/cable/yellow{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/simulated/wall/r_wall,/area/crew_quarters/captain)
+"N" = (/obj/machinery/door/unpowered/simple/wood,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"O" = (/obj/structure/table/woodentable,/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"P" = (/obj/structure/cable/yellow{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"Q" = (/obj/machinery/power/apc{dir = 2; name = "south bump"; pixel_y = -24},/obj/structure/cable/green{d2 = 4; icon_state = "0-4"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"R" = (/obj/item/weapon/storage/toolbox/mechanical,/obj/machinery/power/solar_control/autostart,/obj/structure/cable/yellow{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"S" = (/obj/machinery/gateway{dir = 9},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"T" = (/obj/machinery/power/solar,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"U" = (/obj/machinery/gateway{dir = 10},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"V" = (/obj/effect/floor_decal/industrial/warning/dust/corner{dir = 1; icon_state = "warningcorner_dust"},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"W" = (/obj/effect/floor_decal/industrial/warning/dust{dir = 1; icon_state = "warning_dust"},/obj/structure/railing{dir = 1},/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"X" = (/obj/structure/cable/yellow{d1 = 4; d2 = 8; icon_state = "4-8"},/obj/effect/floor_decal/industrial/warning/dust,/obj/structure/railing,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
+"Y" = (/obj/machinery/gateway{dir = 8},/turf/simulated/floor/trim/darkwood,/area/crew_quarters/captain)
+"Z" = (/obj/effect/floor_decal/industrial/warning/dust,/obj/structure/railing,/turf/simulated/floor/exoplanet/snow,/area/exoplanet/snow)
 
 (1,1,1) = {"
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWrrXXrXXrrWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWrYgCKDglrWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXggkRIgPrWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXggpNSgLrWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWjggggggsrWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXsgggggerWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXsgAaaaTrWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWrhsxHJiwrWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWrrrrQrrrrWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWUVGdovOVFWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWBzMzczMzEWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWBzMzczMzEWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWBzMztzMzEWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWBzMzWzMzEWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWBznzWznzEWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWqbbbbbbbuWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWffff
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqIIrrIrrIIqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqIxoSzsoeIqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrooYnaoDIqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrooUBHoFIqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqNooooooOIqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrOooooopIqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrOotiiivIqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqIuOhwRQmIqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqIIIIMIIIIqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqGZPCJXKZyqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdTbTcTbTlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdTbTcTbTlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdTbTETbTlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdTbTqTbTlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdTjTqTjTlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqLWWWWWWWVqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 "}
